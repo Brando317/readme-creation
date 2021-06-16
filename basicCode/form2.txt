@@ -25,3 +25,6 @@ practiceforms
 <input type="text" id="state" name"state"
 <label for="ZipCode"> Zip Code </label>
 <input type="text" id="ZipCode" name"ZipCode">
+<label for="signup"> Sign Up </label>
+<button type="SignUp" id="SignUp" name="SignUp">
+</form>

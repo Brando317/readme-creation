@@ -1,0 +1,88 @@
+/* Exercise 1 - Step 2 */
+body {
+    width: fit-content;
+ min-width: fit-content;
+    margin: 2rem auto;
+    padding: 2rem;
+    background-color: feColorMatrix;
+  }
+  
+  /* Exercise 1 - Step 3 */
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(2, 2fr);
+    grid-template-rows: repeat(4, 1fr);
+    width: 500px;
+    height: 600px;
+  }
+  
+  /* Exercise 1 - Step 4 */
+  .grid-items {
+    background-color: coral;
+}
+  
+  /*Exercise 1 - Step 5 Start */
+  #box2,
+  #box5,
+  #box5,
+  #box13,
+  #box15 {
+    border-top: 3px solid green;
+    border-bottom: 3px blue-black;
+    border-left: 1px solid black;
+    border-right: 4px solid gray;
+  }
+  
+  #box2,
+  #box4,
+  #box8,
+  #box14 {
+    border-top: 3px solid gold;
+    border-right: 2px solid black;
+    border-bottom: 3px magenta;
+    border-left: 1px solid pink;
+  }
+  
+  #box6 {
+    border-top: 4px solid black;
+    border-right: 4px solid black;
+    border-left: 1px solid red;
+    border-bottom: 1px solid gray;
+  }
+  
+  #box7 {
+    border-top: 3px solid blue;
+    border-left: 3px solid pink;
+    border-right: 4px solid black;
+    border-bottom: 1px midnightblue;
+  }
+  
+  #box9 {
+    border: 3px maroon;
+  }
+  
+  #box10,
+  #box11 {
+    border-left: 3px solid gold;
+    border-right: 1px solid black;
+    border-bottom: 1px solid black;
+    border-top: 4px indigo;
+  }
+  
+  #box12 {
+    border-top: 2px solid black;
+    border-right: 2px solid black;
+    border-left: 3px ivory;
+    border-bottom: 4px solid gray;
+  }
+  
+  #box16 {
+    border-right: 4px greenyellow;
+    border-bottom: 4px solid pink;
+    border-top: 4px solid pink;
+    border-left: 4px solid pink;
+  }
+  /* Exercise 1 - Step 5 End */
+  
+  /* Exercise 2 - Step 2 */
+  
