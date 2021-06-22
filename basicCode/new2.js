@@ -17,8 +17,11 @@ a + str
 
 
 a + str2
-"eleven" 
-11"eleven"
-
-
 "11eleven"
+
+a + "isPresent" = "true"
+
+a + firstName = "11jackey"
+
+a + lastName = "11chan" 
+
