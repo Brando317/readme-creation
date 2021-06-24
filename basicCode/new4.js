@@ -8,6 +8,9 @@ while (continueLoopWhileAbove0)
 do 
 {
     console.log(continueLoopWhileAbove0);         
-} while (contineLoopWhileAbove0);
-}
+} while (contineLoopWhileAbove0); 
 
+for (let continueLoopWhileAbove0 = 100; continueLoopWhileAbove0; continueLoopWhileAbove0--)
+{ 
+    console.log(continueLoopWhileAbove0)
+}
