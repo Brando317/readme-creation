@@ -1,7 +1,7 @@
 let guess = window.prompt("guess a number");
+ 
+let a = 5; if (guess <5) {  console.log("too low")}
 
-let a = 5; if (result <5) {  console.log("too low")}
+else if (guess === 5) {  console.log("congratulations")}
 
-else if (result === 5) {  console.log("congratulations")}
-
-else if (result > 5) { console.log("too high")}
+else if (guess > 5) { console.log("too high")}

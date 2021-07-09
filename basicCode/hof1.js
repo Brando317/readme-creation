@@ -1,11 +1,5 @@
-const doubleFromNumbers = numbers.map((val) => val * 2);
-{numbers += 
-
-
-
-for (let )
-
-
-
-console.log(doubleFromNumbers); 
-}
+const jacket =
+{} 
+color: "green",
+size: "medium",
+season: "winter"}
