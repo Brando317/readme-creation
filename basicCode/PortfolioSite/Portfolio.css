@@ -1,0 +1,20 @@
+
+    html, body
+{
+min-height: 100vh;
+font-size: 23px;
+background: linear-gradient(to bottom right, #333, #000);
+   color: white;
+}
+p 
+{
+margin: 1rem auto;
+}
+
+div
+{
+padding: 1rem;
+}
+.d-block {
+    display:block ;
+}
